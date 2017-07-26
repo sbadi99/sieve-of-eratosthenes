@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PrimeSieve</string>
+    <string name="element_text">Element</string>
+    <string name="grid_layout_manager">Grid Layout Manager</string>
+    <string name="linear_layout_manager">Linear Layout Manager</string>
+
+    <string name="player_error">Error initializing YouTube player: %s</string>
+    <string name="playerfragment_text">This is a YouTubePlayerFragment!</string>
+    <string name="youtube_key">AIzaSyD9o4GyueTqusixCaHAfw0WfU0E9xLEi8w</string>
+    <string name="sieve_video">V08g_lkKj6Q</string>
+</resources>
