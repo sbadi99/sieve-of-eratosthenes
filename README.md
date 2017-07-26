@@ -1,5 +1,6 @@
 # sieve-of-eratosthenes
 Project displays a custom Gridview with some added animation effects (using sieve of Eratosthenes approach).
+
 Also shows how to utilize YouTube Android API to stream YouTube videos.
 
 
